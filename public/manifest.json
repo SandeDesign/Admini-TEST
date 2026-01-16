@@ -1,0 +1,41 @@
+{
+  "name": "FLG-Administratie",
+  "short_name": "FLG",
+  "description": "Complete HR & Administratie Management System",
+  "start_url": "/login",
+  "display": "standalone",
+  "background_color": "#fdf8f3",
+  "theme_color": "#cd853f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Logo-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Logo-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "nl",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
